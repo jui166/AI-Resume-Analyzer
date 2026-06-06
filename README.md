@@ -47,17 +47,15 @@ The system extracts resume content from PDF files, compares it with a job descri
 
 ## 📸 Project Screenshots
 
-### Home Dashboard
 
-![Home Dashboard](docs/screenshots/home.png)
 
-### Resume Analysis
+### ATS Score Evaluation 1
 
-![Resume Analysis](docs/screenshots/analysis.png)
+![ATS Score](docs/screenshots/dashboard_1.png)
 
-### ATS Score Evaluation
+### ATS Score Evaluation 2
 
-![ATS Score](docs/screenshots/ats_score.png)
+![ATS Score](docs/screenshots/dashboard_2.png)
 
 ---
 
